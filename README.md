@@ -1,4 +1,5 @@
-# sars-cov-2_genomics
+# SARS-CoV-2 analysis
+
 ## Dependencies for phylodynamics
 ```
 Nextalign v1.4.5
